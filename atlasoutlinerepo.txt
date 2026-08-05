@@ -1,0 +1,30 @@
+Atlas/
+
+├── Brand/
+│   ├── Logos
+│   ├── Colors
+│   ├── Typography
+│   └── Design System
+│
+├── Manifesto/
+│   ├── Atlas Manifesto
+│   ├── Engineering Principles
+│   └── Engineering Philosophy
+│
+├── Templates/
+│   ├── PowerPoint
+│   ├── Word
+│   ├── PDF
+│   ├── Sprint
+│   └── Engineering Tickets
+│
+├── Courses/
+│   ├── SaaS
+│   ├── C++
+│   ├── Data Structures
+│   ├── Event Driven
+│   ├── Mobile
+│   └── Capstone
+│
+└── Playbook/
+    └── Built one sprint at a time
